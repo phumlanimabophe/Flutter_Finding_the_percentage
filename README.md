@@ -1,23 +1,31 @@
-# Flutter app in Zapp!
+# Average Marks Calculator App
 
-A new Flutter project built with Zapp!
+The **Average Marks Calculator** is a Flutter application that allows you to calculate the average marks for a selected student from a predefined list. The app features a dynamic background image slideshow and a user-friendly interface for calculating and displaying average marks.
 
-----
+## Table of Contents
 
-> To learn how to use Zapp! check out the [documentation](https://docs.zapp.run)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
 
-----
+## Features
+
+- Display a dynamic background image slideshow that changes every 10 seconds.
+- Select a student from a dropdown list.
+- Calculate the average marks of the selected student.
+- Display the calculated average marks.
+- View a list of students along with their marks in a separate screen.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Make sure you have [Flutter](https://flutter.dev/docs/get-started/install) and [Dart](https://dart.dev/get-dart) installed on your machine.
 
-A few resources to get you started if this is your first Flutter project:
+2. Clone this repository:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   ```sh
+   git clone https://github.com/your-username/average_marks_calculator.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
